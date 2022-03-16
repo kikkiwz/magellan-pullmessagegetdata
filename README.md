@@ -1,1 +1,1 @@
-# pullmessagegetdata
+robot --outputdir ../Report_MagellanCore_PullMessageGetData_Q3Sprint1_20210825 PullMessage
